@@ -1,4 +1,5 @@
   "use client"; 
+  import { useEffect } from 'react';
 import Hero from '@/components/Hero'
 import Projects from '@/components/Project'
 import Contact from '@/components/Contact'
@@ -7,7 +8,7 @@ import About from '@/components/About'
 import AOS from "aos"
 
 import "aos/dist/aos.css";
-import { useEffect } from 'react';
+
 
 
 
