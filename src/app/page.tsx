@@ -1,4 +1,8 @@
-  "use client"; 
+ 
+ 
+ 
+ 
+ "use client"; 
   import { useEffect } from 'react';
 import Hero from '@/components/Hero'
 import Projects from '@/components/Project'
